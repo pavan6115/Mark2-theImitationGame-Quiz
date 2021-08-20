@@ -1,0 +1,20 @@
+{
+  "name": "Mark2-theImitationGame-Quiz",
+  "version": "1.0.0",
+  "description": "A fun CLI app made using NodeJS which has the quiz for The Imitation Game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavan6115/Mark2-theImitationGame-Quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavan6115/Mark2-theImitationGame-Quiz/issues"
+  },
+  "homepage": "https://github.com/pavan6115/Mark2-theImitationGame-Quiz#readme"
+}
